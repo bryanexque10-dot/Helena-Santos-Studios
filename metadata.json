@@ -1,0 +1,6 @@
+{
+  "name": "Helena Ensaio Studios",
+  "description": "Estúdio de fotografia especializado em ensaios femininos, retratos profissionais, fotografia em estúdio e ao ar livre. Transformando momentos em memórias inesquecíveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
